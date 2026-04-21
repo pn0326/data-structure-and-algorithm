@@ -1,7 +1,4 @@
 /* 
-    * LeetCode: 16. 3Sum Closest
-    * Link: https://leetcode.com/problems/3sum-closest/
-
     * Given an array of +ve and -ve integers, 
     * find a pair whose sum is closest to Zero in Array. 
     * Example: [-2, 2, 5, 9, -3, 6] Answer: [2, -3]
@@ -39,3 +36,6 @@ function findPairClosestToZero(arr) {
 const arr = [-2, 2, 5, 9, -3, 6];
 const result = findPairClosestToZero(arr);
 console.log(result); // Output: [2, -3] 
+
+
+
